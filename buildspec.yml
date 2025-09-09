@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   variables:
-    AWS_REGION: eu-west-1
-    ACCOUNT_ID: 816892137670
-    REPO_NAME: products_to_price
+    AWS_REGION: eu-north-1
+    ACCOUNT_ID: 876455127683
+    REPO_NAME: pr-match-products
 
 phases:
   pre_build:
